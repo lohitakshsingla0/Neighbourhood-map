@@ -1,0 +1,36 @@
+.dlist
+{
+	font-size: 20px;
+	cursor:pointer;
+	padding: 5px;
+
+}
+
+
+.header
+{
+	background-color:  #007EDB;
+	color: white;
+	margin-bottom: 0px;
+}
+#map
+{
+	border: solid 2px gray;
+	position: relative;
+    height: 600px;
+	}
+
+body {
+    background-color:  #ffffcc
+}
+
+
+.heading1 {
+	text-align: center;
+	
+	 font-family: verdana;
+}
+
+h3 {
+	text-align: bottom;
+}
